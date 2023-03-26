@@ -1,14 +1,14 @@
 input: ./
 output: build
-url: https://weeb.pages.dev/
+url: https://ducklink.pages.dev/
 
 branding:
-  logo: /static/weebicon.svg
-  logoDark: /static/weebicon.svg
-  title: WEEB
+  logo: /static/ina.png
+  logoDark: /static/ina.png
+  title: Ducklink
 
 meta:
-  title: " - WEEB wiki"
+  title: " - Ducklink"
 
 footer:
   links:

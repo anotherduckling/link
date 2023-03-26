@@ -1,7 +1,7 @@
 ---
 visibility: hidden
 ---
-![](https://cdn.discordapp.com/attachments/1015131233824538624/1087082812169015467/bVL3HVn.png)
+![](https://cdn.discordapp.com/attachments/1015131233824538624/1085458762355195974/xJ5c5qR.png)
 # Network Stream
 !!! light Why use the method
 - best streaming quality without torrent
