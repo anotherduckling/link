@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://weeb.pages.dev/sitemap.xml.gz
+Sitemap: https://ducklink.pages.dev/sitemap.xml.gz
