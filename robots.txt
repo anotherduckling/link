@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ducklink.pages.dev/sitemap.xml.gz
